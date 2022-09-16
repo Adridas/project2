@@ -1,3 +1,7 @@
+# Install  React App
+npx create-react-app my-app
+https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
